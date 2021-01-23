@@ -4,8 +4,8 @@
 
 This artifact includes two files.
 
-1. A pdf file containing the method naming standards survey questions we used in qualtrics for surveying professional developers. The file containes the likert scale questions and source code examples used in the survey. 
-2. A CSV file containing professional developers responses to the likert scale questions and their feedback about each method naming standard, as well as their answers to the demographic questions.
+1. A pdf file containing the method naming standards survey questions we used in Qualtrics for surveying professional developers. The file contains the Likert scale questions and source code examples used in the survey. 
+2. A CSV file containing professional developers responses to the Likert scale questions and their feedback about each method naming standard, as well as their answers to the demographic questions.
 3. A copy of the accepted paper (preprint)
 
 
