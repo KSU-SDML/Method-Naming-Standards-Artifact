@@ -16,5 +16,5 @@ Alsuhaibani, R., Newman, C., Decker, M., Collard, M.L., Maletic, J.I., "On the N
 
 # Artifact Paper Citation:
 
-Alsuhaibani, Reem S.; Newman, Christian D.; Decker, Michael J.; Collard, Michael L.; Maletic, Jonathan I. (2021), “Method-Naming-Standards-Survey-Dataset”, Mendeley Data, V1, doi: 10.17632/5d7vx88sph.1
-http://dx.doi.org/10.17632/5d7vx88sph.1
+Alsuhaibani, Reem S.; Newman, Christian D.; Decker, Michael J.; Collard, Michael L.; Maletic, Jonathan I. (2021), “Method-Naming-Standards-Survey-Dataset”, Mendeley Data, V2, doi: 10.17632/5d7vx88sph.2
+http://dx.doi.org/10.17632/5d7vx88sph.2
